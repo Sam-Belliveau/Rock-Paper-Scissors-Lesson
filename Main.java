@@ -27,15 +27,14 @@ public class Main {
 
 
     public static Player[] players = {
-        //new Sam(),
-        // new Myles(),
-        // new Mark(),
-        // new BenG(),
-        // new AndrewLiu(),
-        // new AnthonyChen(),
-        // new ShauryaSen(),
-        // new Randy(),
-        //new Jin(),
+        new Myles(),
+        new Mark(),
+        new BenG(),
+        new AndrewLiu(),
+        new AnthonyChen(),
+        new ShauryaSen(),
+        new Randy(),
+        new Jin(),
         new Sam()
     };
 
